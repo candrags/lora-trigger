@@ -85,7 +85,7 @@ const payload = {
   "$.loan_structure.ltv": 0.7929,
   "$.loan_structure.tenure": 6,
   "$.loan_structure.interest_rate": 0.0312,
-  "$.loan_structure.ntf_amount":198000000,
+  "$.loan_structure.provisional_amount":198000000,
   "$.loan_structure.product_offering": 1,
   "$.asset.bpkb_ownership": "1",
   "$.asset.bpkb_owner_name": "Adhitya",
